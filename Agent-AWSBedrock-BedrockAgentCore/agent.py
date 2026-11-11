@@ -13,7 +13,7 @@ from bedrock_agentcore import BedrockAgentCoreApp
 # AWS Bedrock config
 # --------------------------------------------------
 AWS_BEDROCK_MODEL_ID     = "global.anthropic.claude-opus-5-5"
-AWS_BEDROCK_MODEL_REGION = "ca-central-1"
+AWS_BEDROCK_MODEL_REGION = "us-west-2"
 
 # --------------------------------------------------
 # 1. Our Agent tools
